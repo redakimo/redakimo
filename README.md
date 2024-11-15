@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @redakimo
-- 👀 I’m interested in Developpment Mobile Application
+- 👀 I’m interested in Development FOR desktop, Web and Mobile Applications
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Android Studio
+- 💞️ I’m looking to collaborate on Python, WFS, and Android Studio
 - 📫 How to reach me essofi.redouane@gmail.com
 
 <!---
